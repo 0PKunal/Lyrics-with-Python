@@ -10,14 +10,6 @@ A dynamic, animated lyrics display application that brings songs to life in your
 - **SRT Subtitle Support**: Perfect synchronization using standard .srt subtitle files
 - **Rich Terminal Output**: Beautiful, colorful display powered by the `rich` Python library
 
-## 🎬 Demo
-
-The application creates a mesmerizing visual experience where:
-- Each lyric line appears with a glitch effect (random symbols flashing)
-- Characters are revealed one by one with a typing animation
-- Colors change dynamically based on the emotional content of the lyrics
-- Perfect timing synchronization with the original song structure
-
 ## 🚀 Installation
 
 ### Prerequisites
